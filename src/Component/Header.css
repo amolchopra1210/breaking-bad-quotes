@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Permanent Marker', cursive;
+}
+body {
+    background: url("http://getwallpapers.com/wallpaper/full/e/9/8/271889.jpg");
+    background-size: cover;
+}
+.navbar {
+    width: 100%;
+    background: transparent;
+    display: flex;
+    min-height: 50px;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+}
+.nav-content{
+    font-size: 4rem;
+    color: yellow;
+}
+.refreshButton {
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+}
+.refreshButton button {
+    border-radius: 10px;
+    outline: none;
+    padding: 10px;
+    border: 1px solid #fff;
+    background: transparent;
+    cursor: pointer;
+    width: 100px;
+    color: yellow;
+}
+.quotesAuthor {
+    text-align: right;
+}
