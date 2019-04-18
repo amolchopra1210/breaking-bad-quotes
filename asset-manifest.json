@@ -1,5 +1,5 @@
 {
-  "main.css": "/breaking-bad-quotes/static/css/main.f6067192.chunk.css",
+  "main.css": "/breaking-bad-quotes/static/css/main.c72d4bf2.chunk.css",
   "main.js": "/breaking-bad-quotes/static/js/main.c3116ee8.chunk.js",
   "main.js.map": "/breaking-bad-quotes/static/js/main.c3116ee8.chunk.js.map",
   "runtime~main.js": "/breaking-bad-quotes/static/js/runtime~main.a738f69d.js",
@@ -7,7 +7,7 @@
   "static/js/2.ec8b0532.chunk.js": "/breaking-bad-quotes/static/js/2.ec8b0532.chunk.js",
   "static/js/2.ec8b0532.chunk.js.map": "/breaking-bad-quotes/static/js/2.ec8b0532.chunk.js.map",
   "index.html": "/breaking-bad-quotes/index.html",
-  "precache-manifest.90528396c9777b13302b2d6d6b5392d9.js": "/breaking-bad-quotes/precache-manifest.90528396c9777b13302b2d6d6b5392d9.js",
+  "precache-manifest.a0fb019e80cc0a0d2209d834f0cc31ab.js": "/breaking-bad-quotes/precache-manifest.a0fb019e80cc0a0d2209d834f0cc31ab.js",
   "service-worker.js": "/breaking-bad-quotes/service-worker.js",
-  "static/css/main.f6067192.chunk.css.map": "/breaking-bad-quotes/static/css/main.f6067192.chunk.css.map"
+  "static/css/main.c72d4bf2.chunk.css.map": "/breaking-bad-quotes/static/css/main.c72d4bf2.chunk.css.map"
 }

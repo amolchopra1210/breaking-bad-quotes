@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/breaking-bad-quotes/static/js/runtime~main.a738f69d.js"
   },
   {
-    "revision": "14c51f02a9dd4040cc63",
+    "revision": "78274dc64279af5681a5",
     "url": "/breaking-bad-quotes/static/js/main.c3116ee8.chunk.js"
   },
   {
@@ -12,11 +12,11 @@ self.__precacheManifest = [
     "url": "/breaking-bad-quotes/static/js/2.ec8b0532.chunk.js"
   },
   {
-    "revision": "14c51f02a9dd4040cc63",
-    "url": "/breaking-bad-quotes/static/css/main.f6067192.chunk.css"
+    "revision": "78274dc64279af5681a5",
+    "url": "/breaking-bad-quotes/static/css/main.c72d4bf2.chunk.css"
   },
   {
-    "revision": "90af1e093d71557852ab173fc99f145e",
+    "revision": "f0659029b5b728c298faa103f5d44b57",
     "url": "/breaking-bad-quotes/index.html"
   }
 ];
