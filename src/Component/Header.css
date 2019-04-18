@@ -1,17 +1,4 @@
-@media screen and (max-width : 760px) {
-    .nav-content{
-        font-size: 2rem;
-    }
-    .quoteBox {
-        width: 90%;
-    }
-    .quotes {
-        font-size: 1.5rem;
-    }
-    .quotesAuthor {
-        font-size: 1rem;
-    }
-}
+
 * {
     box-sizing: border-box;
     margin: 0;
