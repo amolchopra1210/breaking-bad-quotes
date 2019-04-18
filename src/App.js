@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import Header from './Component/Header';
 import Quotes from './Component/Quotes';
 import NewQuote from './Component/NewQuote';
+import  './App.css';
 
 class App extends React.Component {
 state = {
